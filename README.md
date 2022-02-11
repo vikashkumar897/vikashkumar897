@@ -41,18 +41,11 @@
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 [![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)][mail]
-[![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
-[![Coder Rank](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)][codersrank]
-[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
 **Check the Repositories and don't forget to give a star.** 👇
 
 
-[website]: https://mishravibhav.github.io/
-[mail]: mailto:mishravibhav1910@gmail.com
-[twitter]: https://twitter.com/VibhavM16952324
-[codersrank]: https://profile.codersrank.io/user/mishravibhav/asOthersSee/info
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/mishra_vibhav_/
-[linkedin]: https://www.linkedin.com/in/vibhav-mishra-91625a170/
-[medium]: https://medium.com/@mishravibhav
+[website]: https://google.com
+[mail]: mailto:vikashoffice.vk@gmail.com
+[twitter]: https://twitter.com/VikashofficeVk
+[linkedin]: https://www.linkedin.com/in/vikash-kumar-048363163/
