@@ -41,6 +41,15 @@
 [![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)][mail]
 
+
+## My GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashkumar897&show_icons=true&locale=en&layout=compact" alt="vikashkumar897" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikashkumar897&show_icons=true&locale=en" alt="vikashkumar897" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashkumar897&" alt="vikashkumar897" /></p>
+
 **Check the Repositories and don't forget to give a star.** 👇
 
 
