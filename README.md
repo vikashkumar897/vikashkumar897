@@ -11,9 +11,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on varios projects including internshala clone
+- 🔭 I’m currently working on various projects including internshala clone
 - 🌱 I’m currently learning Full Stack Web Develoapment
-- 👯 I’m looking to collaborate on project you nedd help
+- 👯 I’m looking to collaborate on project you need help
 - 📫 How to reach me: M.- +91 8986298980, Email: vikashoffice.vk@gmail.com
 
 ## 🚀 Languages and Tools:
