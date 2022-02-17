@@ -43,7 +43,7 @@
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)][mail]
 
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashkumar897&show_icons=true&locale=en&layout=compact" alt="vikashkumar897" /></p>
 
