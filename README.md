@@ -4,8 +4,10 @@
 **vikashkumar897/vikashkumar897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vikashkumar897/vikashkumar897/main/card.jpg" width="80%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/vikashkumar897/vikashkumar897/blob/main/ezgif.com-gif-maker-16.gif?raw=true" width="60%" title="Intro Card" alt="Intro Card">
 </p>
+
+#### An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
 ## 🙋‍♂️ About Me
 
