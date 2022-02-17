@@ -7,7 +7,7 @@
   <img src="https://github.com/vikashkumar897/vikashkumar897/blob/main/ezgif.com-gif-maker-16.gif?raw=true" width="60%" title="Intro Card" alt="Intro Card">
 </p>
 
-#### An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+**Seeking a challenging and rewarding opportunity in a reputed organization to work at a responsible position and performing consistently to the best of my skills and abilities in order to learn and grow along with the organization.iring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.**
 
 ## 🙋‍♂️ About Me
 
